@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="newItna">
+</Property><Property Name="Solution File" Value="C:\Users\Jaiam_987\Documents\Visual Studio 2005\Projects\newItna\newItna.sln">
+</Property><Property Name="Date" Value="Friday, October 28, 2011">
+</Property><Property Name="Time" Value="0:44:32 AM">
+</Property></Properties><Event ErrorLevel="2" Project="WebApplication1.csproj" Source=" WebApplication1.csproj:(Error List)" Description="ERROR: Unable to parse project file WebApplication1.csproj.&#xA;">
+</Event></UpgradeLog>

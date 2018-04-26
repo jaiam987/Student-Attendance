@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\newItna\", ".", "{9E023C0F-8A36-40B0-93A5-F153292C8A68}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/newItna"
+		Debug.AspNetCompiler.PhysicalPath = "..\newItna\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\newItna\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/newItna"
+		Release.AspNetCompiler.PhysicalPath = "..\newItna\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\newItna\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60136"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E023C0F-8A36-40B0-93A5-F153292C8A68}.Debug|.NET.ActiveCfg = Debug|.NET
+		{9E023C0F-8A36-40B0-93A5-F153292C8A68}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
